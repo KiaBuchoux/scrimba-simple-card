@@ -1,10 +1,6 @@
 # scrimba-simple-card
  Basic HTML & CSS practice
 
- ![Screenshot](Screenshot 1.png)
- 
-
-
  A different way to center a div:
  - display: gird + place-item: center  
 
